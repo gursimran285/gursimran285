@@ -115,17 +115,7 @@ https://gursimran-portfolio-xi.vercel.app/
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gursimran285&show_icons=true&theme=dark&title_color=D6A800&icon_color=D6A800&text_color=FFFFFF&bg_color=0B0B0B&border_color=333333" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gursimran285&layout=compact&theme=dark&title_color=D6A800&text_color=FFFFFF&bg_color=0B0B0B&border_color=333333" />
-
-</div>
-
----
 
 ## 🔥 GitHub Streak
 
